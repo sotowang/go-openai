@@ -1,3 +1,5 @@
-module github.com/sashabaranov/go-openai
+module github.com/sotowang/go-openai
 
 go 1.18
+
+require github.com/sashabaranov/go-openai v1.15.3
